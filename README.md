@@ -26,7 +26,7 @@ To measure player movement accurately, we will use optical flow to account for c
 
 For questions or feedback, feel free to reach out to:
 
-- Andrii - [Your Email](mailto:andrii.myrosh.shi.2022@lpnu.ua)
-- Project Link: [GitHub Repository](https://github.com/AwfulIceCream/football_analysis)
+- Andrii - [Email](mailto:andrii.myrosh.shi.2022@lpnu.ua)
+- Project Link: [Football Analysis](https://github.com/AwfulIceCream/football_analysis)
 
 ---
